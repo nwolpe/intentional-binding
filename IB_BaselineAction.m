@@ -1,5 +1,10 @@
-%%%% ib
+%%%% intentional binding, baseline action
 %%% written by Noham Wolpe, March 2012 %%%
+
+%%% please cite:
+%%% N Wolpe, P Haggard, HR Siebner, JB Rowe, 
+%%% Cue integration and the perception of action in intentional binding
+%%% Experimental brain research 229 (3), 467-474
 
 %% setting up initial parameters
 clear all;
